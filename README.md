@@ -2,11 +2,11 @@
 
 ## 📌 Prosjektbeskrivelse
 
-Dette prosjektet bruker maskinlæring for å predikere boligpriser i Boston. Jeg  tester flere modeller og optimaliserer ytelsen ved bruk av Feature Engineering og hyperparameter-tuning.
+Dette prosjektet bruker maskinlæring for å predikere boligpriser i Boston. Jeg tester flere modeller og optimaliserer ytelsen ved bruk av Feature Engineering og hyperparameter-tuning. Du finner en engelsk versjon av prosjektet under mappen "English".
 
 ## 📂 Datasett
 
-- **Boston House Prices** (Kaggle)
+- **Boston House Prices** (Kaggle) https://www.kaggle.com/datasets/vikrishnan/boston-house-prices
 - Datasettet inneholder boligpriser og variabler som blant annet kriminalitet, antall rom, skatter osv.
 
 ## 🛠️ Teknologier og verktøy
@@ -51,8 +51,8 @@ XGBoost med Feature Engineering ga **den beste ytelsen** med lavest feil og høy
 
 - **Feature Engineering forbedret ytelsen**
 - **XGBoost var den beste modellen**
-- **Hyperparameter-tuning hjalp oss med å finne optimale verdier**
+- **Hyperparameter-tuning hjalp med å finne optimale verdier**
 
 ## 📧 Kontakt
 
-Dersom du har spørsmål, ta kontakt med Julie Jansen på julie_emmy_95@hotmail.com eller www.linkedin.com/in/julie-jansen-a73232138.
+Hvis du har spørsmål, ta kontakt med Julie Jansen på julie_emmy_95@hotmail.com eller www.linkedin.com/in/julie-jansen-a73232138.
